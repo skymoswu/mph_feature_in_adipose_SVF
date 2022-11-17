@@ -2,7 +2,7 @@
 
 ## Data Accessibility
 
-Our data has been uploaded to GEO database with GEO accession: 
+Our data has been uploaded to Genome Sequence Archive for Human with accession number: HRA002549.
 
 ## Session Info
 
